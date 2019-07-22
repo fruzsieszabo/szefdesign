@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="hu<head>
+      <meta charset="UTF-8">
+      <title>Első igazi weblapom</title>
+</head>
+<body>
+  Én egy igazi weblap vagyok.
+<p>
+  Ebben a bekezdésben elkezdem kigyúrni a body-t.
+<p/>
+<h1>
+  Dobok ide egy első címsort, ami alá odadobálom mindjárt a többit is.
+</h1>
+<h2>
+  Íme, itt a második címsor.
+</h2>
+<h3>
+  Következik a harmadik címsor.
+</h3>
+<h4>
+  Igen, bírom még: ez a negyedik címsor.
+</h4>
+<h5>
+  Ha ez végre az ötödik, akkor már csak egy van hátra. Yeah!
+</h5>
+<h6>
+  Utolsó, hatodik. Ezzel eleget tettem a címsorok résznek. Átadom a helyet a felsorolásoknak.
+</h6>
+<h6>
+  Kezdjük egy ún. pontozott felsorolással, ahol elárulom nektek a kedvenc fonalaimat.
+</h6>
+<ul>
+  <li>
+    Lana Gatto fonalcsalád, VIP fonala (80% gyapjú, 20 % kasmír)
+  </li>
+  <li>
+    Himalaya fonalcsalád, Everyday fonal (100 % mikrofiber akril, figurákhoz)
+  </li>
+  <li>
+    Alize fonalcsalád, Bella és BellaBatik (100 % pamut fonal, horgoláshoz)
+  </li>
+</ul>
+<h6>
+    Most következzen egy másik fajta, a számozott felsorolás. Ebben megosztom veletek, mit szeretek legjobban kötni és horgolni.
+</h6>
+  <ol>
+    <li>
+      Amigurumi figurák horgolása
+    </li>
+    <li>
+      Kendő - mindenféle fazonban - kötése és horgolása
+    </li>
+    <li>
+      Gyerekruhák
+    </li>
+  </ol>
+<h6>
+    Ide illesztek egy táblázatot, csak hogy lássátok: tudok ilyet is.
+</h6>
+<table>
+  <thead>
+    <tr>
+      <th>
+        100 % pamut
+      </th>
+      <th>
+        100 % akril
+      </th>
+      <th>
+        100 % gyapjú
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        Alize Bella
+      </td>
+      <td>
+        Himalaya Everyday
+      </td>
+      <td>
+        Rowan Baby Merino Silk
+      </td>
+      </tr>
+      <tr>
+      <td>
+        Gombolyda Guru
+      </td>
+      <td>
+        Alize Díva
+      </td>
+      <td>
+        Lana Gatto SuperSoft
+      </td>
+      </tr>
+    </tbody>
+</table>
+<h6>
+  És végül megosztok veletek egy idézetet magamtól.
+</h6>
+<blockquote>
+    Az a nap, amelyiken nem horgoltam vagy kötöttem semmit, az meg sem történt.
+</blockquote>
+<h6>
+  Tudom én, hogy egy kép még hiányzik. Nosza.
+</h6>
+  <img src="img/enparizsban_.jpg" alt=""Én, Párizsban" width="240" height="240">
+<h6>
+  Végezetül - mert most már neki kell állnom a szorgalminak, foglalkoznom kell valami tánctanár weboldalával - egy link, ami a saját weboldalamra mutat.
+</h6>
+  <a href="https://www.2tu.hu/">
+        2tű
+  </a>
+</body>
+</html>
